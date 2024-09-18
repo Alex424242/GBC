@@ -8,9 +8,9 @@
 - % (Percentage, Percent, Division)
 - ^ (Up arrow, Hat)
 - & (And Sign, Ampersand)
-- \*
-- (
-- )
+- \* (Star, asterisk)
+- ( (Open Bracket, Left parenthesis)
+- ) (Close Bracket, Right parenthesis)
 
 ## Useful Links
 
