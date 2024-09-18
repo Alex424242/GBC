@@ -18,5 +18,13 @@
 - [Duolingo - The world's best way to learn a language](https://www.duolingo.com/)
 - [Stu-View](https://stuview.georgebrown.ca/)
 
+## Experiments
+
+- :confused:
+- :expressionless:
+- :rage:
+- 🧮
+- ⛹️‍♀️
+
 
 
