@@ -12,10 +12,11 @@
 - ( (Open Bracket, Left parenthesis)
 - ) (Close Bracket, Right parenthesis) 
 
-## Useful Links
+## Links
 
 - [Cat Dancing to EDM - Green Screen](https://www.youtube.com/watch?v=E3RcD6LleYU)
-- 
+- [Duolingo - The world's best way to learn a language](https://www.duolingo.com/)
+- [Stu-View](https://stuview.georgebrown.ca/)
 
 
 
