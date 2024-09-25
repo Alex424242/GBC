@@ -26,5 +26,18 @@
 - 🧮
 - ⛹️‍♀️
 
+## Keyboard shortcuts
+## Keyboard shortcuts
+
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-f (Find)
+- Ctrl-S (Screen shot)
+- Alt tab (Change screen)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
 
 
